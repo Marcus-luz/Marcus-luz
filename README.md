@@ -4,7 +4,7 @@ Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela 
 
 - 🔭 Atualmente atuando na **Secretaria Municipal de Saúde**, desenvolvendo soluções de transparência e indicadores de saúde para o SUS.
 - 🏗️ Especialista em **Arquitetura Hexagonal** e modelagem de sistemas com **UML (PlantUML)**.
-- 🧪 Experiência em **Garantia de Qualidade (QA)** com testes automatizados em Java e Selenium.
+- 🧪 Experiência em **Garantia de Qualidade (QA)** com testes automatizados em Java, Python e Selenium.
 - 🚀 Participante da Residência em TIC 16 com foco em **Computação Avançada**.
 - 💬 Vamos conversar sobre **Python, Flask, Testes Unitários e Metodologias Ágeis**.
 
@@ -42,7 +42,7 @@ Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela 
 
 ### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuslaraújo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuslaraujo)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcusvyni3@gmail.com)
 
 ---
