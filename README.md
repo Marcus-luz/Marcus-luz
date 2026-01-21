@@ -42,7 +42,7 @@ Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela 
 
 ### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuslaraujo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuslaraújo)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcusvyni3@gmail.com)
 
 ---
