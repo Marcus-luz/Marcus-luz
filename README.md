@@ -6,7 +6,6 @@ Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela 
 - 🏗️ Especialista em **Arquitetura Hexagonal** e modelagem de sistemas com **UML (PlantUML)**.
 - 🧪 Experiência em **Garantia de Qualidade (QA)** com testes automatizados em Java, Python e Selenium.
 - 🚀 Participante da Residência em TIC 16 com foco em **Computação Avançada**.
-- 💬 Vamos conversar sobre **Python, Flask, Testes Unitários e Metodologias Ágeis**.
 
 ---
 
@@ -28,6 +27,21 @@ Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+### 🛠️ Minhas Habilidades
+
+#### **Hard Skills (Técnicas)**
+* [cite_start]**Linguagens & Frameworks:** Python (Flask), Java, PHP, JavaScript, HTML5 e CSS3[cite: 80, 81].
+* [cite_start]**Arquitetura & Qualidade:** Arquitetura Hexagonal, Arquitetura Medallion (Data), Testes Automatizados (Selenium, Pytest, Unittest) e Qualidade de Software (QA)[cite: 15, 18, 54, 80, 81].
+* [cite_start]**Dados & Infraestrutura:** SQL (MySQL), SQLAlchemy, Business Intelligence (BI), Big Data, Git e GitLab[cite: 80, 81, 82, 88].
+* [cite_start]**Documentação & Modelagem:** Modelagem UML com PlantUML e documentação técnica de processos[cite: 16, 52, 80].
+
+#### **Soft Skills (Comportamentais)**
+* [cite_start]**Metodologias Ágeis:** Experiência prática com Scrum (Dailies, Planning) e Kanban[cite: 19, 41, 77].
+* [cite_start]**Trabalho em Equipe:** Colaboração ativa em times de desenvolvimento e realização de *Code Reviews*[cite: 41, 42, 77, 78].
+* [cite_start]**Resolução de Problemas:** Foco no diagnóstico preciso e resolução de falhas técnicas complexas[cite: 7, 89].
+* [cite_start]**Comunicação & Organização:** Experiência em projetos de transparência pública, exigindo clareza na entrega de indicadores e documentação[cite: 6, 16, 49].
 
 ---
 
