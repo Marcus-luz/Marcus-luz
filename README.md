@@ -2,7 +2,7 @@
 
 Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela **Unipampa**. Possuo experiência prática no desenvolvimento de soluções Full Stack e foco em arquiteturas robustas e automação de processos.
 
-- 🔭 Atualmente atuando na **Secretaria Municipal de Saúde**, desenvolvendo soluções de transparência e indicadores de saúde para o SUS.
+- 🔭 Atualmente atuando como Bolsista na **Secretaria Municipal de Saúde**, desenvolvendo soluções de transparência e indicadores de saúde para o SUS.
 - 🏗️ Especialista em **Arquitetura Hexagonal** e modelagem de sistemas com **UML (PlantUML)**.
 - 🧪 Experiência em **Garantia de Qualidade (QA)** com testes automatizados em Java, Python e Selenium.
 - 🚀 Participante da Residência em TIC 16 com foco em **Computação Avançada**.
