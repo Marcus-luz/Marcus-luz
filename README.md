@@ -3,8 +3,8 @@
 Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela **Unipampa**. Possuo experiência prática no desenvolvimento de soluções Full Stack e foco em arquiteturas robustas e automação de processos.
 
 - 🔭 Atualmente atuando como Bolsista na **Secretaria Municipal de Saúde**, desenvolvendo soluções de transparência e indicadores de saúde para o SUS.
-- 🏗️ Conhecimento em **Arquitetura Hexagonal , Microserviços** e modelagem de sistemas com **UML (PlantUML)**.
-- 🧪 Experiência em **Garantia de Qualidade (QA)** com testes automatizados em Java e Selenium.
+- 🏗️ Conhecimento em **Arquitetura Hexagonal , Microserviços** e modelagem de sistemas.
+- 🧪 Experiência em **Qualidade de Software (QA)** com testes automatizados.
 - 🚀 Participante da Residência em TIC 16 com foco em **Computação Avançada**.
 
 
@@ -15,7 +15,7 @@ Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela 
 #### **Hard Skills (Técnicas)**
 * **Back-end:** Python (Flask), Java e PHP.
   - ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-* **Front-end:** JavaScript, HTML5 e CSS3.
+* **Front-end:** JavaScript, HTML e CSS.
   - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 * **Arquitetura & Qualidade:** Arquitetura Hexagonal, Arquitetura Medallion (Data), Testes Automatizados (Selenium, Pytest, Unittest) e Qualidade de Software (QA).
 * **Dados & Infraestrutura:** SQL (MySQL), SQLAlchemy, Business Intelligence (BI), Big Data, Git e GitLab.
