@@ -30,12 +30,6 @@ Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do Marcus](https://github-readme-stats.vercel.app/api?username=Marcus-luz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Linguagens do Marcus](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-luz&layout=compact&langs_count=7&theme=dracula)
----
-
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuslaraújo)
