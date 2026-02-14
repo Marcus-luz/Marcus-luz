@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcus Vinicius da Luz Araújo! 👋
 
-Desenvolvedor Back-end em formação e graduando em Engenharia de Software pela **Unipampa**. Possuo experiência prática no desenvolvimento de soluções Full Stack e foco em arquiteturas robustas e automação de processos.
+Desenvolvedor full stack em formação e graduando em Engenharia de Software pela **Unipampa**. Possuo experiência prática no desenvolvimento de soluções Full Stack e foco em arquiteturas robustas e automação de processos.
 
 - 🔭 Atualmente atuando como Bolsista na **Secretaria Municipal de Saúde**, desenvolvendo soluções de transparência e indicadores de saúde para o SUS.
 - 🏗️ Conhecimento em **Arquitetura Hexagonal , Microserviços** e modelagem de sistemas.
