@@ -30,6 +30,16 @@ Desenvolvedor full stack em formação e graduando em Engenharia de Software pel
 
 ---
 
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack Principal | Link |
+| :--- | :--- | :--- | :--- |
+| **Intuitive Care** | Pipeline ETL + Dashboard para dados da ANS. | Python, FastAPI, Vue.js | [Ver Repositório](https://github.com/Marcus-luz/intuitive-care-Test) |
+| **Landing Page de Tecnologia** | Interface web que simulasse a apresentação de serviços tecnológicos|  HTML, CSS, JavaScript | [Ver Repositório](https://github.com/Marcus-luz/projeto-Landing-Page) |
+| **SEAC Gestão** | Fluxo de caixa agrícola (Residência BRISA). | PHP, React, Python | [Ver Repositório](https://github.com/Marcus-luz/Cash_flow) |
+
+---
+
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuslaraújo)
