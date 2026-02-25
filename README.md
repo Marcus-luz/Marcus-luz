@@ -36,7 +36,7 @@ Desenvolvedor full stack em formação e graduando em Engenharia de Software pel
 | :--- | :--- | :--- | :--- |
 | **Intuitive Care** | Pipeline ETL + Dashboard para dados da ANS. | Python, FastAPI, Vue.js | [Ver Repositório](https://github.com/Marcus-luz/intuitive-care-Test) |
 | **Landing Page de Tecnologia** | Interface web que simulasse a apresentação de serviços tecnológicos|  HTML, CSS, JavaScript | [Ver Repositório](https://github.com/Marcus-luz/projeto-Landing-Page) |
-| **SEAC Gestão** | Fluxo de caixa agrícola (Residência BRISA). | PHP, React, Python | [Ver Repositório](https://github.com/Marcus-luz/Cash_flow) |
+| **SEAC Gestão** | Fluxo de caixa agrícola (Residência BRISA). | Vite, React, Python | [Ver Repositório](https://github.com/Marcus-luz/Cash_flow) |
 
 ---
 
