@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Marcus%20Vinicius&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Engenheiro+de+Software+%7C+Unipampa+%F0%9F%8E%93;Full+Stack+%7C+Python+%7C+React+%7C+TypeScript;Dados+%7C+IA+Generativa+%7C+DevOps+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Engenheiro+de+Software+%7C+Unipampa+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
