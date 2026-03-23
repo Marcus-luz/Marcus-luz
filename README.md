@@ -106,18 +106,6 @@ class MarcusVinicius:
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/Marcus-luz/agile-artifacts-assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcus-luz&repo=agile-artifacts-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Marcus-luz/intuitive-care-Test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcus-luz&repo=intuitive-care-Test&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
 
 | 🏆 Projeto | 📋 Descrição | ⚡ Stack | 🔗 Link |
 |:---|:---|:---|:---:|
